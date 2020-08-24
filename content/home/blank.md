@@ -50,42 +50,43 @@ title = "Course Outline"
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
-.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+.tg  {border:none;border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#444;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hmp3{background-color:#D2E4FC;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-phtq{background-color:#D2E4FC;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-q2ja{background-color:#D2E4FC;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-y3bs{background-color:#cbcefb;border-color:#ffffff;color:#2a2020;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">Week</th>
-    <th class="tg-0lax">Date</th>
-    <th class="tg-0lax">Topic</th>
-    <th class="tg-0lax">Problem Set</th>
+    <th class="tg-zv4m">Week</th>
+    <th class="tg-zv4m">Date</th>
+    <th class="tg-zv4m">Topic</th>
+    <th class="tg-zv4m">Problem Set</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hmp3" rowspan="2">1</td>
-    <td class="tg-hmp3">1/01</td>
-    <td class="tg-hmp3">Introduction to Data Analysis</td>
-    <td class="tg-hmp3"></td>
+    <td class="tg-y3bs" rowspan="2">1</td>
+    <td class="tg-q2ja">1/01</td>
+    <td class="tg-q2ja">Introduction to Data Analysis</td>
+    <td class="tg-q2ja"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">1/03</td>
-    <td class="tg-0lax">Introduction to Excel</td>
-    <td class="tg-0lax">Pset 1 due 1/07</td>
+    <td class="tg-zv4m">1/03</td>
+    <td class="tg-zv4m">Introduction to Excel</td>
+    <td class="tg-zv4m">Pset 1 due 1/07</td>
   </tr>
   <tr>
-    <td class="tg-hmp3">2</td>
-    <td class="tg-hmp3">1/07</td>
-    <td class="tg-hmp3">Introduction to STATA</td>
-    <td class="tg-hmp3"></td>
+    <td class="tg-y3bs">2</td>
+    <td class="tg-q2ja">1/07</td>
+    <td class="tg-q2ja">Introduction to STATA</td>
+    <td class="tg-phtq"></td>
   </tr>
 </tbody>
 </table>
