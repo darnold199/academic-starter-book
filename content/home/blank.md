@@ -51,5 +51,8 @@ title = "Course Outline"
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Here is the Course Outline
+| Week  | Date | Topics                              |
+| ------|------|-------------------------------------|
+| 1     |1/01/ | What is Data Analysis               |
+
 
