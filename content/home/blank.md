@@ -13,4 +13,4 @@ type: book  # Do not modify.
 ---
 
 Instructor: David Arnold
-Time; Tuesday/Thursdays XX
+Time: Tuesday and Thursdays: XX
