@@ -1,11 +1,11 @@
 +++
-# Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Blank widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "Econ 5/ Poli 5: Data Analytics for Social Sciences"
+title = "Course Outline"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "book.svg"
@@ -51,7 +51,4 @@ title = "Econ 5/ Poli 5: Data Analytics for Social Sciences"
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Instructor: David Arnold
-
-Time: Tuesdays and Thursdays: XX
-
+Outline for Course:
