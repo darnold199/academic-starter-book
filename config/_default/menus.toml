@@ -7,3 +7,8 @@
   name = "Documentation"
   url = "docs/"
   weight = 10
+
+[[main]]
+  name = "Course Slides"
+  url = "slides/"
+  weight = 10
