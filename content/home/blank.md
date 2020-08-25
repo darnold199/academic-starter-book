@@ -97,6 +97,8 @@ title = ""
 
 {{< mybtn "Slides" "https://darnold199.github.io/StataTutorialSlides.slides.html#/" >}}
 
+{{< cssbutton "Slides" "https://darnold199.github.io/StataTutorialSlides.slides.html#/" >}}
+
 <div class="centered">
 <button class="small button">Button</button>
 <button class="small red button">Button</button>
