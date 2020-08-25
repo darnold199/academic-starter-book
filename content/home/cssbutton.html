@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<title>hot-container.CSS</title>
+<link rel="stylesheet" href="hot-container.css">
 <style>
-.w3-btn {margin-bottom:10px;}
-</style>
-<body>
+<div class="hot-container">
 
-<div class="w3-container">
-  <a href="{{.Get 1}}">
-  <button class="w3-btn w3-white w3-border w3-border-red w3-round-large">{{.Get 0}}</button>
-
+<a href="{{.Get 1}}" class="btn btn-blue">{{.Get 0}}</a>
+    
 </div>
-
-</body>
 </html>
