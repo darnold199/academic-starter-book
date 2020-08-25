@@ -51,10 +51,10 @@ title = "Course Outline"
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 <style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
-.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#444;
+.tg  {border:none;border-collapse:collapse;border-color:#9ABAD9;border-spacing:0px;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:10px;color:#444;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#fff;
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:10px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-phtq{background-color:#D2E4FC;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
