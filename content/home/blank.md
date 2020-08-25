@@ -95,3 +95,21 @@ title = ""
 </table>
 
 
+
+<a class="button button-red">
+  <i class="fa fa"></i>
+  <strong>slides</strong>
+</a>
+<a class="button button-purple">
+  <i class="fa fa"></i>
+  <strong>lecture</strong>
+</a>
+<a class="button button-blue">
+  <i class="fa fa"></i>
+   <strong>book chapter</strong>
+</a>
+<a class="button button-green">
+  <i class="fa fa"></i>
+  Order <strong>pdf</strong>
+</a>
+
