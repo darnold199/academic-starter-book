@@ -95,6 +95,12 @@ title = ""
 </table>
 
 
+<div class="centered">
+<button class="small button">Button</button>
+<button class="small red button">Button</button>
+<button class="small green button">Button</button>
+<button class="small blue button">Button</button>
+
 
 <a class="button button-red">
   <i class="fa fa"></i>
