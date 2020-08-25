@@ -95,27 +95,12 @@ title = ""
 </table>
 
 
+{{< mybtn "Slides" "https://darnold199.github.io/StataTutorialSlides.slides.html#/" >}}
+
 <div class="centered">
 <button class="small button">Button</button>
 <button class="small red button">Button</button>
 <button class="small green button">Button</button>
 <button class="small blue button">Button</button>
 
-
-<a class="button button-red">
-  <i class="fa fa"></i>
-  <strong>slides</strong>
-</a>
-<a class="button button-purple">
-  <i class="fa fa"></i>
-  <strong>lecture</strong>
-</a>
-<a class="button button-blue">
-  <i class="fa fa"></i>
-   <strong>book chapter</strong>
-</a>
-<a class="button button-green">
-  <i class="fa fa"></i>
-  Order <strong>pdf</strong>
-</a>
 
