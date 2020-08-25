@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Course Outline"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "book.svg"
@@ -50,6 +50,9 @@ title = "Course Outline"
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
+
+## Course Outline
+
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#9ABAD9;border-spacing:0px;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:2px;color:#444;
