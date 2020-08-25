@@ -86,7 +86,7 @@ title = "Course Outline"
     <td class="tg-y3bs">2</td>
     <td class="tg-q2ja">1/07</td>
     <td class="tg-q2ja">Introduction to STATA</td>
-    <td class="tg-phtq"></td>
+    <td class="tg-q2ja"></td>
   </tr>
 </tbody>
 </table>
