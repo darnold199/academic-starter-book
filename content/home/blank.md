@@ -49,6 +49,13 @@ title = ""
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+
+
+
+
+links = [{name = "Slides", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}, {name = "Slides 2", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}]
+
+
 +++
 
 ## Course Outline
@@ -94,41 +101,6 @@ title = ""
 </tbody>
 </table>
 
-<html>
-<head>
-<style type="text/css">
-.button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 8px 16px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  border-radius: 12px;
-  cursor: pointer;
-}
-
-.button:hover {
-  background-color: #4CAF50; /* Green */
-  color: white;
-}
-
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-}
-
-.button1:hover {
-  background-color: #4CAF50;
-  color: white;
-}
-
-links = [{name = "Slides", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}, {name = "Slides 2", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}]
 
 
 
