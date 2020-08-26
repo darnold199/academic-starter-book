@@ -94,7 +94,7 @@ title = ""
 </tbody>
 </table>
 
-{{ % mybtn Slides https://darnold199.github.io/StataTutorialSlides.slides.html#/ %}} 
+{{ % cssbutton Slides https://darnold199.github.io/StataTutorialSlides.slides.html#/ %}} 
 
 
 
