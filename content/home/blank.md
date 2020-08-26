@@ -33,6 +33,14 @@ title = ""
   # Text color (true=light or false=dark).
   #text_color_light = false
 
+  url_slides = "https://darnold199.github.io/StataTutorialSlides.slides.html"
+
+  links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
@@ -49,8 +57,6 @@ title = ""
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
-"slides: StataTutorialSlides.slides.html"
-
 +++
 
 ## Course Outline
