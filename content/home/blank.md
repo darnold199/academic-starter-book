@@ -78,7 +78,7 @@ title = ""
   <tr>
     <td class="tg-y3bs" rowspan="2">1</td>
     <td class="tg-q2ja">1/01</td>
-    <td class="tg-q2ja">Introduction to Data Analysis</td>
+    <td class="tg-q2ja">Introduction to Data Analysis [Slides](https://darnold199.github.io/StataTutorialSlides.slides.html) </td>
     <td class="tg-q2ja"></td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ title = ""
 </tbody>
 </table>
 
-
+"slides: StataTutorialSlides.html"
 
 [Slides](https://darnold199.github.io/StataTutorialSlides.slides.html)
 
