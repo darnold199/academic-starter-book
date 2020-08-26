@@ -96,7 +96,7 @@ title = ""
 
 <html>
 <head>
-<style>
+<style type="text/css">
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
