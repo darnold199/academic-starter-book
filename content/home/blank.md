@@ -128,14 +128,8 @@ title = ""
   color: white;
 }
 
-</style>
-</head>
-<body>
+"url_slides: "https://darnold199.github.io/StataTutorialSlides.slides.html" " 
 
-<button class="button button1">Slides</button>
-
-</body>
-</html>
 
 
 
