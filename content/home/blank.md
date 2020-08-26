@@ -112,6 +112,11 @@ title = ""
   cursor: pointer;
 }
 
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
 .button1 {
   background-color: white; 
   color: black; 
