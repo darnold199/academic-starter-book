@@ -33,8 +33,6 @@ title = ""
   # Text color (true=light or false=dark).
   #text_color_light = false
 
-  url_slides = "https://darnold199.github.io/StataTutorialSlides.slides.html"
-
   links:
   - icon_pack: fab
     icon: twitter
@@ -101,9 +99,6 @@ title = ""
   </tr>
 </tbody>
 </table>
-
-"slides: StataTutorialSlides.slides.html"
-"url_slides: "https://darnold199.github.io/StataTutorialSlides.slides.html""
 
 [Slides](https://darnold199.github.io/StataTutorialSlides.slides.html)
 
