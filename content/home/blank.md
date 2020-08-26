@@ -94,8 +94,6 @@ title = ""
 </tbody>
 </table>
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -124,10 +122,11 @@ title = ""
   background-color: #4CAF50;
   color: white;
 }
+
 </style>
 </head>
 <body>
-<a href="https://darnold199.github.io/StataTutorialSlides.slides.html#/">
+
 <button class="button button1">Slides</button>
 
 </body>
