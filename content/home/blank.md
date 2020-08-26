@@ -50,12 +50,6 @@ title = ""
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 
-
-
-
-links = [{name = "Slides", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}, {name = "Slides 2", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}]
-
-
 +++
 
 ## Course Outline
@@ -103,6 +97,7 @@ links = [{name = "Slides", url="https://darnold199.github.io/StataTutorialSlides
 
 
 
+[Slides](https://darnold199.github.io/StataTutorialSlides.slides.html)
 
 
 
