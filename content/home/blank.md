@@ -94,9 +94,8 @@ title = ""
 </tbody>
 </table>
 
+{{< button href="https://darnold199.github.io/StataTutorialSlides.slides.html#/" >}}Slides{{< /button >}}
 
-
-{{< cssbutton "Slides" "https://darnold199.github.io/StataTutorialSlides.slides.html#/" >}}
 
 
 
