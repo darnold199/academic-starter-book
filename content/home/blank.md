@@ -49,6 +49,7 @@ title = ""
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+"slides: StataTutorialSlides.slides.html"
 
 +++
 
@@ -95,7 +96,8 @@ title = ""
 </tbody>
 </table>
 
-"slides: StataTutorialSlides.html"
+"slides: StataTutorialSlides.slides.html"
+"url_slides: "https://darnold199.github.io/StataTutorialSlides.slides.html""
 
 [Slides](https://darnold199.github.io/StataTutorialSlides.slides.html)
 
