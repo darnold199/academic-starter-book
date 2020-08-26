@@ -1,6 +1,6 @@
 +++
 # Blank widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
@@ -128,7 +128,7 @@ title = ""
   color: white;
 }
 
-"url_slides: "https://darnold199.github.io/StataTutorialSlides.slides.html" " 
+links = [{name = "Slides", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}, {name = "Slides 2", url="https://darnold199.github.io/StataTutorialSlides.slides.html"}]
 
 
 
