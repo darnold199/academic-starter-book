@@ -94,7 +94,45 @@ title = ""
 </tbody>
 </table>
 
-{{ < cssbutton Slides https://darnold199.github.io/StataTutorialSlides.slides.html#/ >}} 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+<a href="https://darnold199.github.io/StataTutorialSlides.slides.html#/">
+<button class="button button1">Slides</button>
+
+</body>
+</html>
+
 
 
 
