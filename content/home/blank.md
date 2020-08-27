@@ -55,3 +55,94 @@ title = ""
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #D2E4FC; /* Green */
+  border: none;
+  color: white;
+  padding: 2px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #ffffff; 
+  color: #3336FF ; 
+  border: 2px solid #3336FF;
+}
+
+.button1:hover {
+  background-color: #3336FF;
+  color: white;
+}
+
+.button2 {
+  background-color: #ffffff; 
+  color: #22AE79 ; 
+  border: 2px solid #22AE79;
+}
+
+.button2:hover {
+  background-color: #22AE79;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+</body>
+</html>
+
+
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-color:#9ABAD9;border-spacing:0px;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:2px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:2px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-phtq{background-color:#D2E4FC;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-q2ja{background-color:#D2E4FC;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-y3bs{background-color:#cbcefb;border-color:#ffffff;color:#2a2020;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m">Week</th>
+    <th class="tg-zv4m">Date</th>
+    <th class="tg-zv4m">Topic</th>
+    <th class="tg-zv4m">Problem Set</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y3bs" rowspan="2">1</td>
+    <td class="tg-q2ja">1/01</td>
+    <td class="tg-q2ja">Introduction to Data Analysis <a href="https://darnold199.github.io/StataTutorialSlides.slides.html#/"> <button class="button button1">Slides</button>
+ </td>
+    <td class="tg-q2ja"></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">1/03</td>
+    <td class="tg-zv4m">Introduction to Excel <a href="https://darnold199.github.io/StataTutorialSlides.slides.html#/"> <button class="button button2">Lecture</button> </td>
+    <td class="tg-zv4m">Pset 1 due 1/07</td>
+  </tr>
+  <tr>
+    <td class="tg-y3bs">2</td>
+    <td class="tg-q2ja">1/07</td>
+    <td class="tg-q2ja">Introduction to STATA</td>
+    <td class="tg-q2ja"></td>
+  </tr>
+</tbody>
+</table>
