@@ -33,11 +33,6 @@ title = ""
   # Text color (true=light or false=dark).
   # text_color_light = false
 
-  links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
